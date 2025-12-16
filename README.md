@@ -9,4 +9,4 @@ Currently, I work with **Python**, **BeautifulSoup**, and **Requests** to collec
 To become a skilled ML & NLP engineer, working on projects that involve data processing, AI pipelines, and eventually building advanced language models.
 
 ## 💻 Tech Stack
-Python | BeautifulSoup | Requests | Numpy | Pandas | Matplotlib 
+Python | BeautifulSoup | Requests | Numpy | Pandas | Matplotlib | PostgreSQL | Scikit-learn
