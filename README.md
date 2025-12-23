@@ -3,7 +3,7 @@
 **Aspiring ML & NLP Engineer | Python Developer**
 
 I'm a BSc.CSIT student at Tribhuvan University passionate about Machine Learning and Natural Language Processing.  
-Currently, I work with **Python**, **BeautifulSoup**, and **Requests** to collect and process data, building the foundation for future ML/NLP projects.
+Currently, I work with **Python**, data analysis modules like **numpy,pandas,matplotlib,seaborn** and **scikit-learn** to make predictions about my data.
 
 ## 🌱 My Goal
 To become a skilled ML & NLP engineer, working on projects that involve data processing, AI pipelines, and eventually building advanced language models.
